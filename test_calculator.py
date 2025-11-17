@@ -1,3 +1,7 @@
+#https://github.com/Hershel-k-29/lab11-HK-BL.git
+# Partner 1: Braden Leonard
+# Partner 2: Hershel Kamat
+
 import unittest
 from calculator import *
 
