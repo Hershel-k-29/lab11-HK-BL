@@ -2,6 +2,7 @@ import unittest
 from calculator import *
 
 class TestCalculator(unittest.TestCase):
+    pass
     ######### Partner 2
     # def test_add(self): # 3 assertions
     #     fill in code
